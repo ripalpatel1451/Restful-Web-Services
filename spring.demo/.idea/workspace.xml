@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0b33900-9d37-4240-b63e-ff34a06bcbfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a86jd0jbteBIPC6HyF7OVYxf5W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-aop-example" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Priyal\IdeaProjects" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StringModifierTest.replaceAllA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.learn.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.learn.java" />
+      <option name="MAIN_CLASS_NAME" value="org.learn.java.StringModifierTest" />
+      <option name="METHOD_NAME" value="replaceAllA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringModifierTest.replaceAllA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b33900-9d37-4240-b63e-ff34a06bcbfa" name="Default Changelist" comment="" />
+      <created>1586105009802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586105009802</updated>
+      <workItem from="1586105020657" duration="1385000" />
+      <workItem from="1586286453320" duration="849000" />
+      <workItem from="1586287769596" duration="968000" />
+      <workItem from="1586289752438" duration="598000" />
+      <workItem from="1586291596600" duration="958000" />
+      <workItem from="1586293413005" duration="1568000" />
+      <workItem from="1586295393278" duration="598000" />
+      <workItem from="1586297433772" duration="602000" />
+      <workItem from="1586299385029" duration="1997000" />
+      <workItem from="1586303008969" duration="2413000" />
+      <workItem from="1586807017883" duration="758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586807160373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586807160373" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586807023695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586807023695" />
+    <state x="65" y="72" key="new project wizard" timestamp="1586807072049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="72" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586807072049" />
+  </component>
+</project>
